@@ -1,2 +1,1 @@
-# flappy-arts-deployed
-hospedagem
+# flappy-pimba
